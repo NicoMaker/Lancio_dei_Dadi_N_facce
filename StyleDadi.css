@@ -104,6 +104,11 @@ h1 {
     h2 {
         font-size: 35px;
     }
+
+    #risultato
+    {
+        background-color: mediumspringgreen;
+    }
 }
 
 @media all and (min-width: 1024px) {
@@ -135,6 +140,11 @@ h1 {
     h2 {
         font-size: 40px;
     }
+
+    #risultato
+    {
+        background-image: url(https://img.wallpapic.it/i0217-813-97/thumb/fantasia-drago-cartoni-animati-computer-grafica-sfondo.jpg);
+    }
 }
 
 body {
@@ -146,7 +156,6 @@ body {
 }
 
 #risultato {
-    background-image: url(https://img.wallpapic.it/i0217-813-97/thumb/fantasia-drago-cartoni-animati-computer-grafica-sfondo.jpg);
     text-align: center;
     margin: 15px;
     font-weight: bold;
